@@ -24,8 +24,8 @@ unity1weekというゲームジャムで作成したゲームになっていま�
 
 
 #### ゲーム画像  
-![MakeCoin_タイトル](https://user-images.githubusercontent.com/45326553/106385485-ec818700-6413-11eb-9b29-903a964c8309.png)
-![MakeCoin_パネル](https://user-images.githubusercontent.com/45326553/106385486-ed1a1d80-6413-11eb-9c1c-925ff3c1b15b.png)
-![MakeCoin_ドロップ](https://user-images.githubusercontent.com/45326553/106385487-edb2b400-6413-11eb-9362-84a754f05c1a.png)
+![MakeCoin_パネル](https://user-images.githubusercontent.com/45326553/106386723-be06aa80-6419-11eb-884f-c1cca53f0e5a.png)
+![MakeCoin_ドロップ](https://user-images.githubusercontent.com/45326553/106386725-bf37d780-6419-11eb-9434-f1e0646c1240.png)
+![MakeCoin_タイトル](https://user-images.githubusercontent.com/45326553/106386726-bfd06e00-6419-11eb-85dc-aa917b408b07.png)
   ##### 開発環境
   ・Unity(2019.1.14f)  
