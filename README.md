@@ -24,9 +24,9 @@ unity1weekというゲームジャムで作成したゲームになっていま�
 
 
 #### ゲーム画像  
-![resun_スタート画面](https://user-images.githubusercontent.com/45326553/106386759-ea222b80-6419-11eb-981b-cc962302aa09.png)
-![resun_裏画面](https://user-images.githubusercontent.com/45326553/106386762-eb535880-6419-11eb-8a71-bd168b239602.png)
-![resun_表画面](https://user-images.githubusercontent.com/45326553/106386763-eb535880-6419-11eb-9aaf-d99356922b4d.png)
+![resun_スタート画面](https://user-images.githubusercontent.com/45326553/106386803-176ed980-641a-11eb-9768-2ec93d0b9f99.png)
+![resun_裏画面](https://user-images.githubusercontent.com/45326553/106386806-18077000-641a-11eb-8159-9d4420bb82b7.png)
+![resun_表画面](https://user-images.githubusercontent.com/45326553/106386807-18a00680-641a-11eb-9e68-9d45bb6f1783.png)
   
   ##### 開発環境
   ・Unity(2019.1.14f)  
