@@ -30,3 +30,7 @@ unity1weekというゲームジャムで作成したゲームになっていま�
   
   ##### 開発環境
   ・Unity(2019.1.14f)  
+  
+  ## ソースコードについて
+以下のURLより見ることが出来ます。  
+https://github.com/mazikaaa/rollingsushi/tree/master/rollingsushi/Assets/Script
