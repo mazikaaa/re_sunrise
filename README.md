@@ -33,4 +33,4 @@ unity1weekというゲームジャムで作成したゲームになっていま�
   
   ## ソースコードについて
 以下のURLより見ることが出来ます。  
-https://github.com/mazikaaa/rollingsushi/tree/master/rollingsushi/Assets/Script
+https://github.com/mazikaaa/re_sunrise/tree/master/Assets/Script
